@@ -17,7 +17,7 @@ Copy and rename .envexample file to .env and Generate your application encryptio
 php artisan key:generate
 --
 
-Edit the .env file and give the right database infos and the APP_NAME to value SATIS ABI and APP_ENV to dev
+Edit the .env file and give the right database infos and the APP_NAME to value SATIS_ABI and APP_ENV to dev
 
 
 Enjoy your dev
